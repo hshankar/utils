@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euo pipefail
+IFS=$'\n\t'
+
+# Why? - http://redsymbol.net/articles/unofficial-bash-strict-mode/
